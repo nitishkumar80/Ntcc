@@ -1,0 +1,18 @@
+{
+    "nitish01": {
+        "password": "123",
+        "2FA": {
+            "enabled": true,
+            "secret": "EBOCCPRJIJBQWNSA",
+            "tempSecret": "LEMX6UL7JNIFID2A"
+        }
+    },
+    "nitish02": {
+        "password": "1234",
+        "2FA": {
+            "enabled": true,
+            "secret": "EZ7DKPLSN4CW6RY5",
+            "tempSecret": "OZNVA4CSEY2FMFDQ"
+        }
+    }
+}
